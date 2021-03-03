@@ -1,0 +1,15 @@
+{
+  "name": "videostreaming",
+  "version": "1.0.0",
+  "description": "video will be played by requesting and resposponding it in bytes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akhil",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
